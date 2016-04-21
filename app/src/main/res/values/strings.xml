@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestSpiner</string>
+    <string name="action_settings">Settings</string>
+    <string name="fruits_prompt">Choose a fruit</string>
+
+    <string-array name="fruits" >
+        <item >Apple</item>
+        <item >Mango</item>
+        <item >Orange</item>
+        <item >Pineapple</item>
+    </string-array>
+</resources>
